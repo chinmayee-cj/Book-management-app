@@ -1,4 +1,4 @@
-# Book Management App with Image Upload
+# Book Management App – Image Upload Edition
 
 ## Quick Start
 1. `git clone … && cd book-management-app`
