@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "book-management-server": "file:.."
+  }
+}
